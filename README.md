@@ -60,7 +60,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarsingh1014&theme=radical" alt="Profile Summary Card"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amarsingh1014&theme=radical" alt="GitHub Activity Graph"/>
+  <img src="https://x.com/Gavmn/status/1587849299567616000" alt="GitHub Activity Graph"/>
 </p>
 
 ---
