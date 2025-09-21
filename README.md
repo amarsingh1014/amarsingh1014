@@ -2,15 +2,18 @@
 
 <h1 align="center">Hi, I'm Amar Singh 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F8ACB&center=true&vCenter=true&width=440&lines=Full-stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F8ACB&center=true&vCenter=true&width=440&lines=RAG+%26+Agentic+AI+Enthusiast;Full-stack+Developer;Open+Source+Contributor;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/amarsingh1014">
     <img src="https://img.shields.io/github/followers/amarsingh1014?label=Follow&style=social" alt="GitHub Followers">
   </a>
-  <a href="mailto:amarsingh1014@gmail.com">
-    <img src="https://img.shields.io/badge/email-amarsingh1014%40gmail.com-blue" alt="Email">
+  <a href="mailto:amar31661@gmail.com">
+    <img src="https://img.shields.io/badge/email-amar31661%40gmail.com-blue" alt="Email">
+  </a>
+  <a href="https://twitter.com/aStaticKaleido">
+    <img src="https://img.shields.io/badge/twitter-@aStaticKaleido-1DA1F2?style=social&logo=twitter" alt="Twitter">
   </a>
 </p>
 
@@ -18,11 +21,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **multimodal RAG systems, financial tracking apps, and database chatbots**
-- 🌱 Currently learning: Advanced LLM architectures, vector DBs, and AI streaming
-- 💬 Ask me about **Python, Machine Learning, Generative AI, and Web Development**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/amarsingh1014)
-- ⚡ Fun fact: I love automating workflows and exploring new tech stacks!
+- 🔭 I’m currently exploring **Retrieval Augmented Generation (RAG)** and **Agentic AI architectures**
+- 🌱 Currently learning: Advanced agent frameworks, orchestration, LLM tooling, and scalable AI infrastructure
+- 💬 Ask me about **RAG systems, AI agents, LangChain, HuggingFace, CrewAI, Python, Go, and Web Development**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/amarsingh1014) | [Twitter](https://twitter.com/aStaticKaleido) | amar31661@gmail.com
+- ⚡ Fun fact: I love automating workflows and experimenting with cutting-edge AI stacks!
 
 ---
 
@@ -30,6 +33,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-229954?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CrewAI-3A3A3A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4=" alt="CrewAI"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -70,19 +77,21 @@
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Interests
 
-- <b>🖼️ Multimodal RAG</b>: Integrating text and image embeddings for advanced retrieval-augmented generation.
-- <b>💰 Fin Track</b>: AI-driven personal finance tracker.
-- <b>🤖 DBChat</b>: Natural language interface for databases.
+- <b>🔍 Retrieval Augmented Generation (RAG)</b>: Architecting next-gen retrieval pipelines combining text, image, and multimodal data.
+- <b>🦾 Agentic AI</b>: Developing autonomous agent frameworks and orchestration engines.
+- <b>🛠️ AI Tooling</b>: Building with LangChain, HuggingFace, CrewAI, and integrating LLMs in production.
+- <b>💡 Scalable AI Infrastructure</b>: Optimizing stack for reliability and speed, from prototyping to deployment.
 
 ---
 
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:amarsingh1014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:amar31661@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/amarsingh1014"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/aStaticKaleido"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
