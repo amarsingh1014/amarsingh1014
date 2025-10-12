@@ -68,7 +68,7 @@
   <li>🔗 <a href="https://github.com/amarsingh1014/multimodal_rag">multimodal_rag</a> - RAG systems with multimodal embeddings</li>
   <li>🔗 <a href="https://github.com/amarsingh1014/fin_track">fin_track</a> - Personal finance tracker powered by AI</li>
   <li>🔗 <a href="https://github.com/amarsingh1014/dbchat">dbchat</a> - Chatbot for databases with LLM backends</li>
-  <li>🔗 <a href="https://github.com/amarsingh1014/rag-qna">rag-qna</a> - QnA app using Retrieval Augmented Generation</li>
+  <li>🔗 <a href="https://github.com/amarsingh1014/Legal_Research_Assistant">Legal_Resarch_Assistant</a> - RAG based on legal case summaries</li>
   <li>🔗 <a href="https://github.com/amarsingh1014/qna-with-streaming">qna-with-streaming</a> - Real-time streaming QnA with LLMs</li>
 </ul>
 
