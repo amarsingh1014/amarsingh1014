@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Amar Singh 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F8ACB&center=true&vCenter=true&width=440&lines=RAG+%26+Agentic+AI+Architect;Full-stack+Developer;Open+Source+Contributor;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F8ACB&center=true&vCenter=true&width=440&lines=RAG+%26+Agentic+AI+Dev;Full-stack+Developer;Open+Source+Contributor;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
