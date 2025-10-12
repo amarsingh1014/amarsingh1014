@@ -21,7 +21,7 @@
 - 🔭 I’m currently exploring **Retrieval Augmented Generation (RAG)** and **Agentic AI architectures**
 - 🌱 Currently learning: Advanced agent frameworks, orchestration, LLM tooling, and scalable AI infrastructure
 - 💬 Ask me about **RAG systems, AI agents, LangChain, HuggingFace, CrewAI, Python, Go, and Web Development**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/amarsingh1014) | amar31661@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amar-singh-029875106/) | amar31661@gmail.com
 - ⚡ Fun fact: I love automating workflows and experimenting with cutting-edge AI stacks!
 
 ---
@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="mailto:amar31661@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/amarsingh1014"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amar-singh-029875106/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
